@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vimukthit19@gmail.com**
 
-- 📄 My Portfolio [https://tharaka368.netlify.app/](https://tharaka368.netlify.app/)
+- 📄 My Portfolio ([https://tharaka368.netlify.app](https://chipzy360.netlify.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
