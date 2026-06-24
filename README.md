@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center" style="border-radius: 20px; overflow: hidden; width: fit-content;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4D8D&height=220&section=header&text=Tharaka%20Vimukthi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
+  <img style="border-radius:20px;" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4D8D&height=220&section=header&text=Tharaka%20Vimukthi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
 </div>
 
 </div>
