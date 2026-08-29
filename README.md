@@ -62,13 +62,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🏅 GitHub Profile
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chipzy98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chipzy98&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipzy98&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chipzy98&theme=tokyonight&utcOffset=5.5" height="180"/>
 
 </div>
 
@@ -81,21 +81,21 @@
 
 </div>
 
-🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chipzy98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chipzy98&theme=tokyonight" width="100%" />
 
 </div>
 
 ---
 
-📈 Contribution Graph
+## ⚡ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chipzy98&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chipzy98&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
 
 </div>
 
