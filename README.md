@@ -66,47 +66,46 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chipzy98&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chipzy98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipzy98&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipzy98&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
-<br/>
+---
+🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chipzy98&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=chipzy98&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chipzy98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chipzy98&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chipzy98&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chipzy98&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/chipzy98/chipzy98/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/chipzy98/chipzy98/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
