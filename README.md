@@ -89,7 +89,7 @@ const tharaka = {
 | [**HealthTrack**](https://github.com/Chipzy98/HealthTrack-Personal-Health-Fitness-Management-System) | Personal health & fitness management system — track health and fitness data with visual progress charts | ASP.NET Core (.NET 8) · C# · SQL Server · Bootstrap · Chart.js |
 | [**EcoCity — Frontend**](https://github.com/Chipzy98/Smart-city-frontend) | Smart city web app — the user-facing interface for EcoCity | Next.js · TypeScript · ESLint |
 | [**EcoCity — Backend**](https://github.com/Chipzy98/Smart-city-backend) | Smart city platform — server-side APIs and data layer powering EcoCity | REST API |
-| [**Portfolio**](https://chipzy360.netlify.app) | My personal portfolio showcasing design and development work | Netlify |
+| [**Portfolio**](https://chipzy3682r.netlify.app/) | My personal portfolio showcasing design and development work | Netlify |
 
 ---
 
