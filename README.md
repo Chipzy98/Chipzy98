@@ -68,7 +68,7 @@ const tharaka = {
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgres,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet,mongodb,mysql,postgres,firebase&perline=10" />
 
 **Cloud, DevOps & Tools**
 
@@ -84,13 +84,12 @@ const tharaka = {
 
 ## 🌟 Featured Projects
 
-<!-- Replace the rows below with your own best projects -->
-
 | Project | Description | Tech |
 |---|---|---|
-| [**Portfolio**](https://chipzy360.netlify.app) | My personal portfolio showcasing design and development work | React · Tailwind · Netlify |
-| [**Project Name**](https://github.com/chipzy98/repo-name) | One-line description of what it does and who it helps | Next.js · TypeScript |
-| [**Project Name**](https://github.com/chipzy98/repo-name) | One-line description of what it does and who it helps | Node.js · MongoDB |
+| [**HealthTrack**](https://github.com/Chipzy98/HealthTrack-Personal-Health-Fitness-Management-System) | Personal health & fitness management system — track health and fitness data with visual progress charts | ASP.NET Core (.NET 8) · C# · SQL Server · Bootstrap · Chart.js |
+| [**EcoCity — Frontend**](https://github.com/Chipzy98/Smart-city-frontend) | Smart city web app — the user-facing interface for EcoCity | Next.js · TypeScript · ESLint |
+| [**EcoCity — Backend**](https://github.com/Chipzy98/Smart-city-backend) | Smart city platform — server-side APIs and data layer powering EcoCity | REST API |
+| [**Portfolio**](https://chipzy360.netlify.app) | My personal portfolio showcasing design and development work | Netlify |
 
 ---
 
