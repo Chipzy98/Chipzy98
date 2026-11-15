@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4D8D&height=230&section=header&text=Tharaka%20Vimukthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4D8D&height=230&section=header&text=Tharaka%20Bandara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=56" width="100%"/>
 
 <a href="https://chipzy360.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+user-centred+web+apps;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Designing+in+Figma%2C+shipping+in+code;Exploring+Full+Stack%2C+Cloud+%26+AI" alt="Typing SVG" />
