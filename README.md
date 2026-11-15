@@ -1,12 +1,20 @@
-# 👋 Hey, I'm Tharaka Vimukthi
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Engineer;Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4D8D&height=230&section=header&text=Tharaka%20Vimukthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=56" width="100%"/>
+
+<a href="https://chipzy360.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+user-centred+web+apps;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Designing+in+Figma%2C+shipping+in+code;Exploring+Full+Stack%2C+Cloud+%26+AI" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:FF4D8D&height=220&section=header&text=Tharaka%20Vimukthi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-chipzy360-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://chipzy360.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharaka-vimukthi-44a316201)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimukthit19@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=chipzy98&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/chipzy98?label=Followers&style=flat-square&color=00D9FF&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/Location-Sri%20Lanka-FF4D8D?style=flat-square" alt="Location"/>
 
 </div>
 
@@ -14,87 +22,106 @@
 
 ## 🚀 About Me
 
-🎨 Passionate UI/UX Designer focused on crafting user-centered digital experiences.
+I'm a **Frontend Developer and UI/UX Engineer** from Sri Lanka who enjoys turning ideas into products that are simple to use and good to look at. I work mostly with **React, Next.js and TypeScript**, and I design in **Figma** before I write a line of code.
 
-💻 Frontend Developer specializing in React, Next.js, TypeScript & Modern Web Technologies.
-
-🌱 Currently expanding my expertise in Full Stack Development, Cloud Technologies and AI.
-
-⚡ I love transforming ideas into intuitive and visually engaging products.
-
-📍 Sri Lanka
+```ts
+const tharaka = {
+  role: ["Frontend Developer", "UI/UX Engineer", "Full Stack Developer"],
+  location: "Sri Lanka 🇱🇰",
+  focus: ["React", "Next.js", "TypeScript", "Design Systems"],
+  learning: ["Full Stack Architecture", "Cloud (AWS / GCP)", "AI integration"],
+  principles: ["User first", "Accessible by default", "Clean, readable code"],
+  funFact: "I sketch the UI before I open the editor ✏️",
+};
+```
 
 ---
 
-## 🌐 Portfolio & Contact
+## 💼 What I Do
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-black?style=for-the-badge\&logo=vercel)](https://chipzy360.netlify.app)
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vimukthit19@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tharaka-vimukthi-44a316201)
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎨 UI/UX Design</h3>
+      User research, wireframes, high-fidelity prototypes and design systems in Figma and Adobe XD.
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Frontend Engineering</h3>
+      Fast, responsive and accessible interfaces with React, Next.js, TypeScript and Tailwind CSS.
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Full Stack</h3>
+      REST APIs and data layers with Node.js, Java / Spring Boot, MongoDB, MySQL and Firebase.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,sass" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,mongodb,mysql,firebase" />
-</p>
-
-### Cloud & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,figma,xd,photoshop,illustrator,git,github,vscode" />
-</p>
-
----
-
-## 🏅 GitHub Profile
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chipzy98&theme=tokyonight" height="180"/>
+**Frontend**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chipzy98&theme=tokyonight&utcOffset=5.5" height="180"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,redux,tailwind,sass,materialui&perline=11" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgres,firebase&perline=8" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,git,github,postman,vscode&perline=9" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=4" />
 
 </div>
 
 ---
-🔥 GitHub Streak
+
+## 🌟 Featured Projects
+
+<!-- Replace the rows below with your own best projects -->
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Portfolio**](https://chipzy360.netlify.app) | My personal portfolio showcasing design and development work | React · Tailwind · Netlify |
+| [**Project Name**](https://github.com/chipzy98/repo-name) | One-line description of what it does and who it helps | Next.js · TypeScript |
+| [**Project Name**](https://github.com/chipzy98/repo-name) | One-line description of what it does and who it helps | Node.js · MongoDB |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chipzy98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipzy98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=chipzy98&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chipzy98&theme=tokyonight" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chipzy98&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Chipzy98/Chipzy98/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chipzy98/Chipzy98/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chipzy98/Chipzy98/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Chipzy98/Chipzy98/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -102,16 +129,21 @@
 
 ## 💡 Design Philosophy
 
-> "Great design is not just how it looks — it's how it works."
+> *"Great design is not just how it looks — it's how it works."*
 
-I believe in creating seamless digital experiences that balance usability, accessibility, and visual excellence.
+I aim for interfaces that balance **usability**, **accessibility** and **visual quality**: clear hierarchy, consistent spacing, meaningful motion and code that's easy for the next developer to pick up.
 
 ---
 
+## 🤝 Let's Work Together
+
+I'm open to **frontend, UI/UX and full stack** opportunities, freelance projects and collaborations.
+The fastest way to reach me is by [email](mailto:vimukthit19@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tharaka-vimukthi-44a316201).
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting! If you like my work, consider starring a repo.
 
-<img src="https://komarev.com/ghpvc/?username=chipzy98&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,50:6C63FF,100:00D9FF&height=120&section=footer" width="100%"/>
 
 </div>
